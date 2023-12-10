@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+::-webkit-scrollbar-thumb {
+    &:hover {
+      background: #989FB7;
+    }
+    background: rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+  }
+::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+}
